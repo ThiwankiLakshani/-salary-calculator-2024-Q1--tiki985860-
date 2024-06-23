@@ -48,7 +48,7 @@ A React application for calculating net salary, considering various earnings, de
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<tiki985860>/salary-calculator-2024-Q1-<tiki985860>.git
+   git clone https:https://github.com/tiki985860/-salary-calculator-2024-Q1--tiki985860-.git
    
 ### Usage
 Basic Salary Input
