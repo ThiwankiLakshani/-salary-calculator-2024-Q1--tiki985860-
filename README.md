@@ -15,7 +15,6 @@ A React application for calculating net salary, considering various earnings, de
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [File Structure](#file-structure)
 - [Project Details](#project-details)
 - [Contributing](#contributing)
 - [License](#license)
@@ -49,7 +48,7 @@ A React application for calculating net salary, considering various earnings, de
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your_github_id>/salary-calculator-2024-Q1-<your_github_id>.git
+   git clone https://github.com/<tiki985860>/salary-calculator-2024-Q1-<tiki985860>.git
    
 ### Usage
 Basic Salary Input
@@ -69,29 +68,6 @@ Automatic Calculation
 Changes in inputs automatically recalculate the salary details and update the display in real-time.
 Reset Inputs
 Click the "Reset" button to clear all inputs and start a fresh calculation.
-
-### File Structure
-
-salary-calculator-2024-Q1-<tiki985860>/
-│
-├── public/
-│   ├── index.html
-│   └── ...
-│
-├── src/
-│   ├── components/
-│   │   ├── EarningDeductionForm.js
-│   │   ├── SalaryDetails.js
-│   │   └── SalaryForm.js
-│   │
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-│
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
 
 ### Project Details
 
