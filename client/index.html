@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salary Calculator</title>
+    <link rel="stylesheet" href="/src/css/styles.css">
+</head>
+<body>
+    <div class="calculator">
+        <h1>Salary Calculator</h1>
+        <label for="basic-salary">Basic Salary:</label>
+        <input type="number" id="basic-salary" placeholder="Enter basic salary">
+        
+        <label for="additional-income">Additional Income:</label>
+        <input type="number" id="additional-income" placeholder="Enter additional income">
+        
+        <button id="calculate">Calculate</button>
+        
+        <h2>Results:</h2>
+        <p>Net Salary: <span id="net-salary"></span></p>
+        <p>EPF Deduction: <span id="epf-deduction"></span></p>
+        <p>ETF Deduction: <span id="etf-deduction"></span></p>
+        <p>APIT Deduction: <span id="apit-deduction"></span></p>
+    </div>
+    <script type="module" src="/src/js/script.js"></script>
+</body>
+</html>
